@@ -6,6 +6,10 @@
 driver variables) behind loan default, i.e. the variables which are strong indicators of default.
 
 # Code and Resources Used
-Python Version: 3.6.0
+-Python Version: 3.6.0
+-Packages: pandas, numpy, matplotlib, seaborn
 
-Packages: pandas, numpy, matplotlib, seaborn
+# Data Cleaning
+## After reading the data, I needed to clean it up so that it was usable for our data analysis. I made the following changes and created the following variables:
+- Checked whether we have missing data for various cloumns.
+- Since,many columns had 33%,65% and even 100% missing values,I deleted those columns as they had no impact in deciding the default. 
