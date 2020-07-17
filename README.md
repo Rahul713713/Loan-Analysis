@@ -18,6 +18,7 @@ driver variables) behind loan default, i.e. the variables which are strong indic
 - Also, we will not be able to use the variables zip code, address, state etc. The variable 'title' is derived from the variable 'purpose'.Thus,I got rid of all these variables as well
 - Converted loan_status to integer type in order to get the total number of customers who defaulted and who didn't.
 - Finally,the remaining columns used for EDA are
+
  1   id                         
  2   member_id                  
  3   loan_amnt                 
