@@ -7,4 +7,5 @@ driver variables) behind loan default, i.e. the variables which are strong indic
 
 # Code and Resources Used
 Python Version: 3.6.0
+
 Packages: pandas, numpy, matplotlib, seaborn
