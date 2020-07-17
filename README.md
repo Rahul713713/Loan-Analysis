@@ -49,5 +49,5 @@ driver variables) behind loan default, i.e. the variables which are strong indic
  28  tax_liens 
 
 # EDA
-Inline-style: 
+![alt text](http://E:/Machine Learning Kaggle/Projects/Loan Analysis/download(1).png "Logo Title Text 1")
 ![alt text](E:/Machine Learning Kaggle/Projects/Loan Analysis/download(1).png "Logo Title Text 1")
