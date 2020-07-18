@@ -49,6 +49,8 @@ driver variables) behind loan default, i.e. the variables which are strong indic
  28  tax_liens 
 
 # EDA
-![loan_status vs term](https://github.com/Rahul713713/Loan-Analysis/blob/master/term.png)
-![alt text](http:E:/Machine Learning Kaggle/Projects/Loan Analysis/download(1).png "Logo Title Text 1")
-![alt text](E:/Machine Learning Kaggle/Projects/Loan Analysis/download(1).png "Logo Title Text 1")
+![loan_status vs term](https://github.com/Rahul713713/Loan-Analysis/blob/master/term.png "loan_status vs term")
+![loan_status vs term](https://github.com/Rahul713713/Loan-Analysis/blob/master/purpose.png "loan_status vs purpose")
+![loan_status vs term](https://github.com/Rahul713713/Loan-Analysis/blob/master/verification_status.png "loan_status vs verification_status")
+![loan_status vs term](https://github.com/Rahul713713/Loan-Analysis/blob/master/int_rate.png "loan_status vs int_rate")
+
