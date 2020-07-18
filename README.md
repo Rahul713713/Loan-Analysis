@@ -50,6 +50,7 @@ driver variables) behind loan default, i.e. the variables which are strong indic
 
 # EDA
 After cleaning the data,I started with EDA. These are some of the outcomes of EDA 
+
 ![loan_status vs term](https://github.com/Rahul713713/Loan-Analysis/blob/master/term.png "loan_status vs term")
 ![loan_status vs term](https://github.com/Rahul713713/Loan-Analysis/blob/master/purpose.png "loan_status vs purpose")
 ![loan_status vs term](https://github.com/Rahul713713/Loan-Analysis/blob/master/verification_status.png "loan_status vs verification_status")
